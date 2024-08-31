@@ -1,0 +1,59 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Practise5",
+      "request": "launch",
+      "mainClass": "Practise5",
+      "projectName": "Practise_89faa420"
+    },
+    {
+      "type": "java",
+      "name": "Practise4",
+      "request": "launch",
+      "mainClass": "Practise4",
+      "projectName": "Practise_89faa420"
+    },
+    {
+      "type": "java",
+      "name": "ConstructorPractise",
+      "request": "launch",
+      "mainClass": "ConstructorPractise",
+      "projectName": "Practise_89faa420"
+    },
+    {
+      "type": "java",
+      "name": "constructorPractise",
+      "request": "launch",
+      "mainClass": "constructorPractise",
+      "projectName": "Practise_89faa420"
+    },
+    {
+      "type": "java",
+      "name": "Practise3",
+      "request": "launch",
+      "mainClass": "Practise3",
+      "projectName": "Practise_89faa420"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "j:/Java Project/Practise",
+      "program": "j:/Java Project/Practise/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
